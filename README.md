@@ -80,7 +80,7 @@ TIMEOUT=60            # 请求超时秒数
 ### 目录结构
 
 ```
-pro_AI2/
+AI-NPC-Forgemind/
 ├── app.py               # Flask 入口（HTTP / 静态页面 / 各 API）
 ├── config.txt           # API 配置
 ├── requirements.txt     # 依赖
